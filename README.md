@@ -35,4 +35,4 @@ Este é o site de votação para a premiação anual "Ballon d'Or" da comunidade
 * **Claiverty Rodrigues**
 
 ---
-*Este é um projeto feito por um fã e para fãs, sem fins lucrativos.*
+*Este é um projeto feito para fãs, sem fins lucrativos.*
